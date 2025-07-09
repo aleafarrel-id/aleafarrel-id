@@ -2,14 +2,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aleafarrel-id/aleafarrel-id/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aleafarrel-id/aleafarrel-id/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aleafarrel-id/aleafarrel-id/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <p align="left">Name : Alea Farrel<br>Gender : He/Him<br>Role : Computer and Network Engineer<br>Interests : System Design, UI/UX Designer, Virtualization and Creative Solutions</p>
 
 ###

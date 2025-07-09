@@ -44,7 +44,7 @@
 
 ###
 
-<p align="center">Committed to continuous learning and professional development, constantly exploring emerging technologies and innovative design paradigms to expand my expertise and contribute impactful solutions."</p>
+<p align="center">Committed to continuous learning and professional development, constantly exploring emerging technologies and innovative design paradigms to expand my expertise and contribute impactful solutions.</p>
 
 ###
 

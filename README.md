@@ -1,4 +1,4 @@
-<h2 align="center">About Me</h2>
+<h3 align="center">About Me</h3>
 
 ###
 
@@ -6,7 +6,8 @@
 
 ###
 
-<h2 align="center">Knowledge</h2>
+---
+<h3 align="center">Knowledge</h3>
 
 ###
 
@@ -48,7 +49,8 @@
 
 ###
 
-<h2 align="center">Follow Me</h2>
+---
+<h3 align="center">Follow Me</h3>
 
 ###
 

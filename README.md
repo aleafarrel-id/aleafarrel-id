@@ -1,5 +1,3 @@
-</br>
-
 ## Alea Farrel **` (he/him) `**
 ###
 

@@ -6,7 +6,6 @@
 </br>
 ![Mikrotik](https://img.shields.io/badge/MikroTik-293239.svg?style=for-the-badge&logo=MikroTik&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000.svg?style=for-the-badge&logo=Proxmox&logoColor=white)
-![VM Ware](https://img.shields.io/badge/VMware-607078.svg?style=for-the-badge&logo=VMware&logoColor=white)
 </br>
 </br>
 Driven by a deep enthusiasm in the **IT world**, my projects on display here are a testament to **logic-first problem-solving**. While my coding journey is still unfolding, each application and system I've built originates from **my own rigorous logical deductions** on how things **should work**. This showcases my innate ability to **conceptualize functional solutions** and serves as a foundation for my continued growth and learning in the **tech landscape**.

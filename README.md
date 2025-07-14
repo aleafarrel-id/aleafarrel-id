@@ -4,7 +4,7 @@
 **` Computer and Network Engineer `**
 </br>
 </br>
-Driven by a deep enthusiasm in the IT world, my projects on display here are a testament to logic-first problem-solving. While my coding journey is still unfolding, each application and system I've built originates from my own rigorous logical deductions on how things should work. This showcases my innate ability to conceptualize functional solutions and serves as a foundation for my continued growth and learning in the tech landscape.
+Driven by a deep enthusiasm in the **IT world**, my projects on display here are a testament to **logic-first problem-solving**. While my coding journey is still unfolding, each application and system I've built originates from **my own rigorous logical deductions** on how things **should work**. This showcases my innate ability to **conceptualize functional solutions** and serves as a foundation for my continued growth and learning in the **tech landscape**.
 
 ###
 

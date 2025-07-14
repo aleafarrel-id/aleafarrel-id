@@ -1,3 +1,5 @@
+![Banner](assets/banner.png)
+
 ## Alea Farrel **` (he/him) `**
 ###
 

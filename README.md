@@ -1,17 +1,21 @@
-<h3 align="center">About Me</h3>
 
+## Alea Farrel **` (he/him) `**
 ###
 
-<p align="left">Name : Alea Farrel<br>Gender : He/Him<br>Role : Computer and Network Engineer<br>Interests : System Design, UI/UX Designer, Virtualization and Creative Solutions</p>
+**` Computer and Network Engineer `**
+</br>
+</br>
+Driven by a deep enthusiasm in the IT world, my projects on display here are a testament to logic-first problem-solving. While my coding journey is still unfolding, each application and system I've built originates from my own rigorous logical deductions on how things should work. This showcases my innate ability to conceptualize functional solutions and serves as a foundation for my continued growth and learning in the tech landscape.
 
 ###
 
 ---
-<h3 align="center">Knowledge</h3>
+<h3 align="center">Languages & Tools</h3>
+</br>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -31,7 +35,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
@@ -44,22 +48,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
+</br>
 
 ###
 
-<p align="center">Committed to continuous learning and professional development, constantly exploring emerging technologies and innovative design paradigms to expand my expertise and contribute impactful solutions.</p>
-
-###
-
----
-<h3 align="center">Follow Me</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/alea_farrel" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+<p align="center">Committed to continuous learning and professional development, constantly exploring emerging technologies and innovative design paradigms to expand my expertise and contribute impactful solutions. <a href="https://www.instagram.com/alea_farrel" target="_blank">Instagram</a> 
+</p>
 
 ###

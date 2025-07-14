@@ -1,3 +1,4 @@
+</br>
 
 ## Alea Farrel **` (he/him) `**
 ###
@@ -9,7 +10,7 @@ Driven by a deep enthusiasm in the IT world, my projects on display here are a t
 
 ###
 
----
+
 <h3 align="center">Languages & Tools</h3>
 </br>
 

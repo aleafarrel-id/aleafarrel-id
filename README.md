@@ -62,12 +62,6 @@ Driven by a deep enthusiasm in the **IT world**, my projects on display here are
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aleafarrel-id/aleafarrel-id/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aleafarrel-id/aleafarrel-id/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aleafarrel-id/aleafarrel-id/output/pacman-contribution-graph.svg">
-</picture>
-
 <p align="center">Committed to continuous learning and professional development, constantly exploring emerging technologies and innovative design paradigms to expand my expertise and contribute impactful solutions. <a href="https://www.instagram.com/alea_farrel" target="_blank">Instagram</a> 
 </p>
 
